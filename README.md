@@ -4,7 +4,7 @@
 ---
 
 ### 🚀 Sobre mí
-- 👨‍💻 Desarrollador Frontend con 1 año de experiencia  
+- 👨‍💻 Desarrollador Frontend con mas de 2 años de experiencia  
 - 🎨 Apasionado por interfaces modernas, animaciones y rendimiento  
 - 📈 Siempre aprendiendo nuevas tecnologías  
 - 🌍 Portfolio: https://remy-portfolio.vercel.app/
@@ -45,5 +45,5 @@
 ---
 
 ### 📨 Contáctame
-- 📧 Email: tu_email
-- 🔗 LinkedIn: tu_linkedin
+- 📧 Email: jekemamu@gmail.com
+- 🔗 LinkedIn: [](https://www.linkedin.com/in/remy-dev/)
