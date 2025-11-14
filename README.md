@@ -1,49 +1,68 @@
-<h1 align="center">Hola 👋, soy Jeremy Mansilla</h1>
-<h3 align="center">Desarrollador Frontend — React • Next.js • Astro • Tailwind</h3>
+<h1 align="center">Jeremy Mansilla — Frontend Developer</h1>
+
+<p align="center">
+  Construyo experiencias web rápidas, limpias y modernas.<br />
+  React • Next.js • Astro • Tailwind
+</p>
 
 ---
 
-### 🚀 Sobre mí
-- 👨‍💻 Desarrollador Frontend con mas de 2 años de experiencia  
-- 🎨 Apasionado por interfaces modernas, animaciones y rendimiento  
-- 📈 Siempre aprendiendo nuevas tecnologías  
-- 🌍 Portfolio: https://remy-portfolio.vercel.app/
+## 🧩 Sobre mí
+- Desarrollador Frontend con experiencia en React, Next.js, Astro y Vue/Nuxt  
+- Foco en rendimiento, accesibilidad y diseño moderno  
+- Apasionado por crear interfaces minimalistas y fluidas  
+- Portfolio: https://remy-portfolio.vercel.app/
 
 ---
 
-### 🛠 Tecnologías que uso
-#### Lenguajes
+## 🛠 Tecnologías
+
+### Lenguajes
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,python,dart" />
 </p>
 
-#### Frameworks
+### Frameworks
 <p>
   <img src="https://skillicons.dev/icons?i=react,next,astro,vue,nuxt,laravel,django,flutter" />
 </p>
 
-#### Herramientas
+### Herramientas
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux" />
 </p>
 
 ---
 
-### 📊 Estadísticas de GitHub
+## 📊 Estadísticas
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SecretNom&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=SecretNom&layout=compact&theme=tokyonight" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=SecretNom&show_icons=true&hide_border=true&theme=transparent" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=SecretNom&layout=compact&hide_border=true&theme=transparent" />
 </div>
 
 ---
 
-### 🖥️ Últimos proyectos destacados
-- 🔗 **SmsRv FrontEnd** — Gestor de campañas con Next.js  
-- 🌌 **Eventos Astronómicos** (Nuxt — en progreso)  
-- 💬 **Widget de chat con Shadow DOM y animaciones**  
+## 📈 Actividad
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=SecretNom&theme=transparent&hide_border=true" />
+</div>
 
 ---
 
-### 📨 Contáctame
-- 📧 Email: jekemamu@gmail.com
-- 🔗 LinkedIn: [](https://www.linkedin.com/in/remy-dev/)
+## 🧪 Proyectos Destacados
+- **SmsRv FrontEnd** — Gestor de campañas con Next.js  
+- **Widget de Chat con Shadow DOM** — UI minimalista + animaciones  
+- **Eventos Astronómicos** — Demo en Nuxt (en desarrollo)  
+
+---
+
+## 📨 Contacto
+- **LinkedIn:** tu_linkedin  
+- **Portafolio:** https://remy-portfolio.vercel.app/  
+- **Email:** tu_correo  
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SecretNom&label=Visitas&style=flat&color=555" />
+</p>
