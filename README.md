@@ -87,8 +87,8 @@ Nuxt SPA + SSR hybrid exploration app for future space/astro events.
 
 ## 📬 Contact
 - **Portfolio:** https://remy-portfolio.vercel.app/  
-- **Email:** your_email_here  
-- **LinkedIn:** your_linkedin_here  
+- **Email:** jekemamu@gmail.com 
+- **LinkedIn:** https://www.linkedin.com/in/remy-dev/
 
 ---
 
