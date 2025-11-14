@@ -31,8 +31,8 @@
 
 ### 📊 Estadísticas de GitHub
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JeremyKertin&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=JeremyKertin&layout=compact&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SecretNom&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=SecretNom&layout=compact&theme=tokyonight" />
 </div>
 
 ---
