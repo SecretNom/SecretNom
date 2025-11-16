@@ -46,12 +46,12 @@ Always exploring better ways to craft front-end experiences.
 
 ### Frameworks
 <p>
-  <img src="https://skillicons.dev/icons?i=react,next,astro,vue,nuxt,laravel,django,flutter" />
+  <img src="https://skillicons.dev/icons?i=react,next,astro,vue,nuxt,laravel,django,flutter,vite" />
 </p>
 
 ### Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,figma,docker,vscode,linux,bun" />
 </p>
 
 ---
