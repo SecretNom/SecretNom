@@ -80,7 +80,7 @@ Nuxt SPA + SSR hybrid exploration app for future space/astro events.
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=SecretNom&theme=transparent&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=SecretNom&theme=transparent&hide_border=true" />
 </div>
 
 ---
